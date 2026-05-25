@@ -8,7 +8,7 @@ import java.time.format.DateTimeFormatter;
 public class TP1 {
 
     public static void main(String[] params){
-        //L'HEUR DU SYSTEM
+        //L'HEUR DU SYSTEM By WOUAFO TALLA JEAN GAEL
         
         System.out.println("----------------------------------------------------------------------------------");
         System.out.println("Bienvenue dans le système de facturation de Toiture-Pour-Tous.");
@@ -324,4 +324,4 @@ public class TP1 {
                     }
                     while(CHOIX_OPTION !=3);
     }
-} // TP1
+} // TP1 faire par WOUAFO TALLA JEAN GAEL
