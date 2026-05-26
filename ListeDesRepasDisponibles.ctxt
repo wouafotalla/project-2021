@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ListeDesRepasDisponibles
+comment0.text=\r\n\ Universit\uFFFD\ du\ Qu\uFFFDbec\ \uFFFD\ Montr\uFFFDal\ (UQAM)\r\n\ Cours\ \:\ INF1120\ -\ 010\ -\ Hiver\ 2021\r\n\ Travail\ pratique\ 3\r\n\ <p>\r\n\ ListeDesRepasDisponibles\ \:\ Cette\ classe\ contient\ les\ donn\uFFFDes\ des\ diff\uFFFDrents\ repas\r\n\ offerts\ par\ le\ restaurant\ Pizza-Pour-Tous,\ et\ les\ m\uFFFDthodes\ pour\ modifier\r\n\ ou\ acc\uFFFDder\ aux\ donn\uFFFDes.\r\n\r\n\ @author\ Votre\ Nom\r\n\ @version\ 10\ avril\ 2021\r\n
+comment1.params=
+comment1.target=void\ lire()
+comment1.text=\r\n\ Lire\ les\ diff\uFFFDrents\ repas\ offerts\ par\ le\ restaurant\ \uFFFD\ partir\r\n\ du\ fichier\ "listeDesRepasDisponibles.txt"\ et\ les\ mettre\ dans\r\n\ le\ tableau\ des\ repas\ disponibles.\r\n
+comment2.params=numeroRepas
+comment2.target=java.lang.String\ obtenirNomRepas(int)
+comment2.text=\r\n\ Obtenir\ le\ nom\ de\ repas\ \uFFFD\ partir\ du\ num\uFFFDro\ de\ repas.\r\n\r\n\ @param\ numeroRepas\ le\ num\uFFFDro\ de\ repas\r\n\ @return\ le\ nom\ de\ repas\r\n
+comment3.params=numeroRepas
+comment3.target=float\ obtenirPrixRepas(int)
+comment3.text=\r\n\ Obtenir\ le\ prix\ de\ repas\ \uFFFD\ partir\ du\ num\uFFFDro\ de\ repas.\r\n\r\n\ @param\ numeroRepas\ le\ num\uFFFDro\ de\ repas\r\n\ @return\ le\ prix\ de\ repas\r\n
+comment4.params=
+comment4.target=void\ afficherLesRepasDisponibles()
+comment4.text=\r\n\ Affiche\ les\ repas\ disponibles.\r\n
+numComments=5

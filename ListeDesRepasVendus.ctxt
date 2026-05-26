@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ListeDesRepasVendus
+comment0.text=\r\n\ Universit\uFFFD\ du\ Qu\uFFFDbec\ \uFFFD\ Montr\uFFFDal\ (UQAM)\r\n\ Cours\ \:\ INF1120\ -\ 010\ -\ Hiver\ 2021\r\n\ Travail\ pratique\ 3\r\n\ <p>\r\n\ ListeDesRepasVendus\ \:\ Cette\ classe\ contient\ les\ donn\uFFFDes\ des\ repas\ vendus,\r\n\ et\ les\ m\uFFFDthodes\ pour\ modifier\ ou\ acc\uFFFDder\ aux\ donn\uFFFDes.\r\n\r\n\ @author\ Votre\ Nom\r\n\ @version\ 10\ avril\ 2021\r\n
+comment1.params=lesRepas
+comment1.target=void\ ajouterLesRepasVendus(Repas[])
+comment1.text=\r\n\ Ajouter\ les\ repas\ vendus\ dans\ le\ tableau\ des\ repas\ vendus.\ Si\ le\ repas\ \uFFFD\ ajouter\ existe\r\n\ d\uFFFDj\uFFFD\ dans\ le\ tableau\ des\ repas\ (c'est-\uFFFD-dire\ le\ m\uFFFDme\ num\uFFFDro\ et\ la\ m\uFFFDme\ sorte\ de\ pizza),\r\n\ on\ ajoute\ le\ nombre\ de\ repas\ au\ nombre\ du\ repas\ existant.\ Sinon\ on\ ajoute\ le\ repas\ dans\r\n\ le\ tableau\ des\ repas\ vendus\ en\ le\ pla\uFFFDant\ \uFFFD\ la\ prochaine\ position\ vide\ de\ ce\ dernier.\r\n\r\n\ @param\ lesRepas\ le\ tableau\ des\ repas\ \uFFFD\ ajouter\r\n
+comment2.params=montantTotal
+comment2.target=void\ calculerLeMontantTotalTousLesRepasVendus(float)
+comment3.params=
+comment3.target=void\ afficherTousLesRepasVendus()
+comment4.params=
+comment4.target=void\ ecrire()
+numComments=5

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Commande
+comment1.params=client
+comment1.target=Commande(Client)
+comment2.params=
+comment2.target=Client\ getClient()
+comment3.params=client
+comment3.target=void\ setClient(Client)
+comment4.params=
+comment4.target=Repas[]\ getLesRepas()
+comment5.params=lesRepas
+comment5.target=void\ setLesRepas(Repas[])
+comment6.params=
+comment6.target=char\ getModePaiement()
+comment7.params=modePaiement
+comment7.target=void\ setModePaiement(char)
+comment8.params=repas
+comment8.target=void\ ajouterRepas(Repas)
+comment9.params=
+comment9.target=java.lang.String\ obtenirDescription()
+numComments=10

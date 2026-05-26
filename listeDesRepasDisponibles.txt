@@ -1,0 +1,6 @@
+3|Moyenne Pizza 12" + 1 Petite Poutine + 1 Pepsi (355 ml)|             20.49
+4|Moyenne Pizza 12" + 10 ailes de poulet + Frites + 1 Pepsi (355 ml)|  21.99
+8|Pizza Large 14" + 1 Moyenne Poutine + 1 Pepsi (355 ml)|              24.49
+9|Pizza Large 14" + 12 ailes de poulet + Frites + 1 Pepsi (355 ml)|    25.99
+13|Pizza X-Large 16" + 1 Grande Poutine + 1 Pepsi (355 ml)|            28.49
+14|Pizza X-Large 16" + 15 ailes de poulet + 1 Pepsi (355 ml)|          29.99

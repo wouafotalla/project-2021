@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Facture
+comment1.params=commande
+comment1.target=Facture(Commande)
+comment2.params=
+comment2.target=float\ getTotal()
+comment3.params=
+comment3.target=void\ calculerSousTotal()
+comment4.params=
+comment4.target=void\ calculerTPS()
+comment5.params=
+comment5.target=void\ calculerTVQ()
+comment6.params=
+comment6.target=void\ calculerTotal()
+comment7.params=
+comment7.target=void\ afficherFacture()
+comment8.params=
+comment8.target=void\ displayOrderEntries()
+numComments=9
